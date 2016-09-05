@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/bloggify-markdown-adapter#readme",
   "dependencies": {
+    "bloggify-adapter": "IonicaBizau/bloggify-adapter",
     "bindy": "^1.0.3",
     "mdify": "^1.0.0",
     "same-time": "^2.3.1",

@@ -8,7 +8,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/bloggify-markdown-adapter#readme",
   "dependencies": {
-    "bloggify-adapter": "IonicaBizau/bloggify-adapter",
+    "bloggify-adapter": "1.0.0",
     "bindy": "^1.0.3",
     "mdify": "^1.0.0",
     "same-time": "^2.3.1",

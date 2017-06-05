@@ -8,32 +8,32 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
     "bin/",
     "app/",
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-markdown-adapter.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-markdown-adapter.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-markdown-adapter/issues"
+    "url": "https://github.com/Bloggify/bloggify-markdown-adapter/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-markdown-adapter#readme",
+  "homepage": "https://github.com/Bloggify/bloggify-markdown-adapter#readme",
   "dependencies": {
     "bloggify-adapter": "1.0.0",
     "bindy": "^1.0.3",
@@ -41,5 +41,8 @@
     "same-time": "^2.3.1",
     "slug": "^0.9.1",
     "ul": "^5.2.2"
+  },
+  "blah": {
+    "description": "Please refer to the [`bloggify-adapter`](https://github.com/Bloggify/bloggify-adapter) to see what are the public methods."
   }
 }

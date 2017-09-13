@@ -1,0 +1,19 @@
+{
+    "config": {
+        "paths": {
+            "articles": "content/articles"
+          , "pages": "content/pages"
+        },
+        "routes": {
+            "articles": "/blog",
+            "home": "home"
+        },
+        "articles_per_page": 3,
+        "parse": {
+            "converterOptions": {
+                "extensions": [],
+                "literalMidWordUnderscores": true
+            }
+        }
+    }
+}

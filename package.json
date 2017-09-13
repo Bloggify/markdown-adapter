@@ -24,7 +24,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json"
   ],
   "repository": {
     "type": "git",
@@ -35,8 +37,9 @@
   },
   "homepage": "https://github.com/Bloggify/markdown-adapter#readme",
   "dependencies": {
-    "bloggify-adapter": "1.0.0",
     "bindy": "^1.0.3",
+    "bloggify-adapter": "^2.0.1",
+    "map-o": "^2.0.8",
     "mdify": "^1.0.0",
     "same-time": "^2.3.1",
     "slug": "^0.9.1",

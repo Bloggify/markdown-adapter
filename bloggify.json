@@ -9,6 +9,9 @@
             "home": "home"
         },
         "articles_per_page": 3,
+        "display": {
+            "html_summary_paragraphs": 5
+        },
         "parse": {
             "converterOptions": {
                 "extensions": [],
